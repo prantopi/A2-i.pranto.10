@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+bin/
+out/
+
+# Data files the program generates when it runs (Part 7 backup/restore demo)
+park_data.txt
+park_data_corrupt.txt
+
+# OS / editor cruft
+.DS_Store
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
